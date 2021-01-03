@@ -4,8 +4,7 @@
 
 ## Links
 
-- [Hosted Page](https://charles-hoot.github.io/web-apps-master-list/)
-- [Source](https://github.com/charles-hoot/web-apps-master-list)
+- [Repo](https://github.com/charles-hoot/web-apps-master-list)
 
 ## Examples - Client-side
 
